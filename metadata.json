@@ -1,0 +1,25 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Saint Leviy",
+                "Name[ru]": "Saint Leviy",
+                "Name[uk]": "Saint Leviy"
+            }
+        ],
+        "Id": "RyazanDawn",
+        "License": "LGPLv3",
+        "Name": "Ryazan dawn",
+        "Name[ar]": "فجر ريازان",
+        "Name[az]": "Ryazan şəfəqi",
+        "Name[bg]": "Зора в Рязан",
+        "Name[ca]": "Alba de Riazan",
+        "Name[de]": "Rjasaner Morgengrauen",
+        "Name[el]": "Αυγή Ριαζάν",
+        "Name[en_GB]": "Ryazan dawn",
+        "Name[es]": "Amanecer de Riazán",
+        "Name[fr]": "L'aube de Riazan",
+        "Name[ru]": "Рязанский рассвет",
+        "Name[uk]": "Рязанський світанок"
+    }
+}
